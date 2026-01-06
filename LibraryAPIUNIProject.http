@@ -1,6 +1,6 @@
 @LibraryAPIUNIProject_HostAddress = http://localhost:5249
 
-GET {{LibraryAPIUNIProject_HostAddress}}/weatherforecast/
+GET {{LibraryAPIUNIProject_HostAddress}}/authors/
 Accept: application/json
 
 ###
